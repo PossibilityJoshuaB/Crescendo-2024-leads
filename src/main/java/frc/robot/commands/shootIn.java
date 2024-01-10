@@ -17,7 +17,7 @@ public class shootIn extends Command {
 
     @Override
     public void execute() {
-                shooter.in();
+        shooter.in();
 
     }
 
